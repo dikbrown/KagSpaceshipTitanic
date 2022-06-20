@@ -16,4 +16,5 @@ The training dataset was split 80/20 into a training set and a validation set.
     
 From each set of models, the best model was used on the validation set. The model performing the best on the validation set was used to analyze the test set.  
       
-    
+Results of each model can be found at https://bit.ly/3Qv8eyH
+
